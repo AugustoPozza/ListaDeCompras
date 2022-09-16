@@ -1,0 +1,7 @@
+{
+  "name": "listanova",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
